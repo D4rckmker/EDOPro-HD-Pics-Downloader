@@ -3,6 +3,10 @@
 [![PowerShell Version](https://img.shields.io/badge/PowerShell-5.1%2B-blue)](https://docs.microsoft.com/en-us/powershell/scripting/overview)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 
+[Leer en Español](README_ES.md)
+
+[Want an alternative for macOS, Windows, and Linux?](OPTIONS.md)
+
 **Armytille’s EDOPro HD Pics Downloader** is a **PowerShell GUI application** that allows you to easily download **HD images of Yu-Gi-Oh! cards** for **EDOPro**.
 
 ---
@@ -39,4 +43,4 @@
 *(Optional)* Enable unrestricted script execution in PowerShell if needed (Run as Admin):
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
-
+```
