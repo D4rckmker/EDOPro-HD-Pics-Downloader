@@ -2,7 +2,7 @@
 
 [Leer en Español](PYTHON_INSTALL_ES.md)
 
-**Don’t have Python installed?** Follow this quick guide.
+**Don’t have Python installed?** Follow this quick step-by-step.
 
 ## Option A — Official installer (recommended)
 1. Go to: https://www.python.org/downloads/
@@ -12,6 +12,7 @@
    ```bash
    python3 --version
    ```
+   ![Python version](asset/python-version.png)
 
 ## Option B — Homebrew
 If you already have Homebrew:
